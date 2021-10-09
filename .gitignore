@@ -1,0 +1,6 @@
+backend/shopme-venv
+backend/build
+backend/user/__pycache__
+backend/shop_time/__pycache__
+frontend/build
+frontend/node_modules
